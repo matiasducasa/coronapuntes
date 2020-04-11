@@ -1,3 +1,5 @@
+# REVISIÓN COVID-19
+
 # Definición de caso, sintomatología y diagnóstico
 
 ## Definición de caso
@@ -6,33 +8,31 @@ Se actualiza en forma dinámica según la situación epidemiológica: [https://w
 
 ## Clínica
 
+La clínica se ha dividido en cuadros leves, severos, y críticos ([fuente](https://doi.org/10.1002/jmv.25766)):
+
+- Tipo leve: sin neumonía o neumonía leve
+- Tipo severo: disnea, FR >30/min, SpO2 <94%, PaFi <300, y/o infiltrados pulmonares >50% en 24-48hs.
+- Tipo crítico: insuficiencia respiratoria aguda, shock séptico, y/o falla multiorgánica
+
 Los síntomas más habituales son fiebre, tos seca y disnea. Presentaciones menos habituales incluyen la producción de esputo y cuadros de diarrea.
 
 La fiebre, si bien es el hallazgo más frecuente, no es constante: un 2% de los pacientes en general no presentó fiebre, y un 4% de los pacientes que no requieren UTI no presentan fiebre [en un estudio sobre la población de Wuhan](https://doi.org/10.1016/S0140-6736\(20\)30183-5); y en una [cohorte](https://doi.org/10.1016/S2213-2600\(20\)30079-5) de pacientes que requirieron UTI, la fiebre inició luego de 2 días de iniciados los primeros síntomas en un 11%.
 
-La clínica se ha dividido en cuadros leves, severos, y críticos ([fuente](https://doi.org/10.1002/jmv.25766)):
+En su evolución la fiebre tiende a resolver para la segunda semana, donde comienzan las complicaciones en aquellos pacientes con mala evolución ([fuente](https://doi.org/10.1016/S0140-6736(20)30566-3)).
 
-![](images/image1.png)
+([Ver figura](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/c04d5964-182e-4cc3-aa16-ced4a69ba380/gr1.jpg))
 
-Evolución ([fuente](https://doi.org/10.1016/S0140-6736\(20\)30566-3)):
-
-![](images/image2.png)
+Mientras que inicialmente la clínica depende directamente de la extensión de la infección viral, con la evolución del cuadro la respuesta inflamatoria del paciente comienza a jugar un rol en la patogénesis de las complicaciones: SDRA, sepsis y shock séptico, falla de bomba.
 
 Se ha [propuesto](https://doi.org/10.1016/j.healun.2020.03.012) una clasificación en etapas de la enfermedad:
 
-![](images/image5.png)
+[Ver figura](https://marlin-prod.literatumonline.com/cms/attachment/16b6c896-8d57-4844-b6f6-18192a215304/gr1_lrg.jpg)
 
-*I - Infección temprana*
-
-*II - Fase pulmonar*
- 
-*IIa - Sin hipoxia*
- 
-*IIb - Con hipoxia*
- 
-*III - Fase hiperinflamatoria*
-
-Mientras que inicialmente la clínica depende directamente de la extensión de la infección viral, con la evolución del cuadro la respuesta inflamatoria del paciente comienza a jugar un rol en la patogénesis de las complicaciones: SDRA, sepsis y shock séptico, falla de bomba.
+- **I - Infección temprana.** Fiebre y síntomas generales, tos, diarrea, cefalea. Aparecen la linfopenia, elevación de LDH y dímero D. Fisiopatológicamente: fase de respuesta viral. Es en esta fase donde probablemente jueguen un rol preponderante los tratamientos específicos antivirales, y evitando el uso de inmunosupresores como los corticoides
+- **II - Fase pulmonar.** Aparece la disnea, y manifestaciones imagenológicas. Puede haber alteración del hepatograma. Implica la transición hacia la fase de respuesta inflamatoria.
+  - *IIa - Sin hipoxia.*
+  - *IIb - Con hipoxia.* Aparece la hipoxia (PaFi <300) 
+- **III - Fase hiperinflamatoria.** Aparición de SDRA, sepsis y shock, insuficiencia cardíaca. Mayor elevación de marcadores inflamatorios (PCR, LDH, dímero D, ferritina), troponinas. Es en esta fase donde podrían tener un rol los tratamientos inmunosupresores como los corticoides.
 
 ## Diagnóstico de laboratorio
 
@@ -51,15 +51,7 @@ Si bien podría resultar una herramienta útil en el screening de pacientes en s
   - Consolidaciones multifocales / parcheadas
   - También se ha descrito: patrón reticular, en “crazy paving” y otros, con menor frecuencia
 
-![](images/image6.png)
-
-([fuente](https://doi.org/10.1007/s00330-020-06801-0))
-
-![](images/image8.png)
-
-([fuente](https://doi.org/10.1177/0846537120913033))
-
-La RSNA publicó una biblioteca de imágenes de [COVID-19](https://pubs.rsna.org/2019-nCoV).
+Fuentes: [1](https://doi.org/10.1007/s00330-020-06801-0), [2](https://doi.org/10.1177/0846537120913033). La RSNA publicó una biblioteca de imágenes de [COVID-19](https://pubs.rsna.org/2019-nCoV).
 
 # Transmisión y equipo de protección personal (EPP)
 
@@ -112,9 +104,13 @@ Es importante en el seguimiento de los marcadores conocer la fecha de inicio de 
   - En los no sobrevivientes: linfopenia, neutrofilia, elevación del dímero D y LDH progresan junto al deterioro clínico. Las troponinas parecerían elevarse para el día 16.
   - En los sobrevivientes: la linfopenia alcanza su nadir en el día 7, posterior a lo cual comenzaría a mejorar; la LDH comienza a descender a partir del día 13.
 
-![](images/image3.png)
+[Ver figura](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/98f5a9fe-fd62-4446-bc34-976da7173723/gr2.jpg)
 
-![](images/image9.png)
+# Tratamiento de sostén
+
+![](images/msal-soporte-1.png)
+
+![](images/msal-soporte-2.png)
 
 (Recomendaciones del [Ministerio de Salud](https://www.argentina.gob.ar/salud/coronavirus-COVID-19/tratamiento-sosten) para el tratamiento de sostén - 9/4/20)
 
@@ -124,7 +120,7 @@ Es importante en el seguimiento de los marcadores conocer la fecha de inicio de 
 
 Existen recomendaciones condicionales del Ministerio de Salud, que agregan al tratamiento sintomático/de sostén y antimicrobiano empírico, los escenarios donde utilizar lopinavir/ritonavir y/o hidroxicloroquina:
 
-![](images/image7.png)
+![](images/msal-tto.png)
 
 [https://www.argentina.gob.ar/salud/coronavirus-COVID-19/abordaje-terapeutico](https://www.argentina.gob.ar/salud/coronavirus-COVID-19/abordaje-terapeutico) (9/4/20)
 
@@ -159,7 +155,22 @@ Es importante tomar en consideración el riesgo de interacciones a nivel del QT,
 
 En las últimas [guías de NAC](https://www.atsjournals.org/doi/pdf/10.1164/rccm.201908-1581ST) de la IDSA (2019), se recomienda contra la toma de muestra de cultivos tanto de secreciones respiratorias como hemocultivos en los pacientes ambulatorios.
 
-![](images/image4.png)
+> ***Criterios de NAC severa IDSA/ATS 2007***
+>
+> *1 criterio mayor, o más de 2 criterios menores*
+> - Mayores
+>   - Shock séptico con requerimiento de vasopresores
+>   - Insuficiencia respiratoria con requerimiento de ARM
+> - Menores
+>   - FR >30/min
+>   - PaFi <250
+>   - Infiltrados multilobares
+>   - Confusión / Desorientación
+>   - Urea >42 mg/dL
+>   - Leucopenia <4000/mcl (debido a la infección y no otras causas)
+>   - Trombocitopenia <100000/mcl
+>   - Hipotermia (<36°C)
+>   - Hipotensión requiriendo reanimación con fluidos
 
 En el caso de pacientes internados se recomienda la toma de cultivos en NAC severa (criterios IDSA/ATS 2007) (recomendación fuerte), con tratamiento empírico para SAMR o Pseudomonas (recomendación fuerte), o bien previamente infectados por los mismos, o en aquellos que hubiesen estado internados y recibido Atb parenterales en los 90 días previos (recomendaciones condicionales).
 
@@ -257,4 +268,4 @@ El uso de vasopresores en forma temprana se ha asociado con menor balance positi
 
 En el caso del objetivo de TAM, viene acumulándose evidencia a favor de objetivos más bajos, posiblemente disminuyendo la mortalidad, evitando efectos adversos de la exposición a vasopresores (principalmente arritmias) (para leer, un [meta-análisis](https://pubmed.ncbi.nlm.nih.gov/29260272/) y el *[65 trial](https://doi.org/10.1001/jama.2020.0930)*).
 
-Última actualización: 10/04/2020
+Versión: 11/04/2020
