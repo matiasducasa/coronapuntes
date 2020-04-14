@@ -40,6 +40,17 @@ Básicamente cuando no podemos lograr el aporte requerido de líquido por el pac
     - Albúmina
     - Hemoderivados (plaquetas, plasma, rojos...)
 
+### Solución fisiológica
+Se relaciona con el desarrollo de acidois hiperclorémica (por la elevada carga de cloro que posee) y posiblemente con injuria renal aguda, con lo cual suelen ser preferibles los cristaloides balanceados como Ringer Lactato.
+
+### Ringer Lactato
+Se debe tener precaución en insuficiencia hepática debido a la dificultad para metabolizar el lactato a nivel hepático. Se debe evitar en pacientes con TEC (o algún otro factor de riesgo para hipertensión endocraneana) ya que al ser levemente hipoosmolar puede favorecer el desarrollo de edema cerebral. 
+
+### Coloides semisintéticos
+Se asocian a daño renal y no han logrado demostrar beneficios por sobre los cristaloides.
+
+Albúmina y hemoderivados tienen indicaciones puntuales, y no son fluidos que vayan a utilizarse por fuera de las mismas.
+
 # Reanimación
 
 La reanimación con fluidos implica administrar volumen en forma rápida, con el objetivo de aumentar la precarga para lograr optimizar la función de bomba. 
@@ -98,12 +109,23 @@ La reposición implica considerar déficits previos y pérdidas continuadas. Par
 ![Figura 2: composición de los cristaloides habituales](images/composicion-fluidos.png)
 *Figura 2: composición de los cristaloides habituales*
 
-La composición de distintos fluidos corporales puede verse en [este link](https://www.nice.org.uk/guidance/cg174/resources/diagram-of-ongoing-losses-191664109).
+> La composición de distintos fluidos corporales puede verse en [este link](https://www.nice.org.uk/guidance/cg174/resources/diagram-of-ongoing-losses-191664109).
 
 # Mantenimiento
 
+**Requerimientos diarios**
+- Volumen: 25-30 ml/kg
+- K y Na: 1 mEq/kg
+- Dextrosa / Glucosa: 1,5 g/kg (50-100 g)
 
+El volumen debe ajustarse al peso teórico en pacientes obesos. Debe descontarse de su cálculo otros aportes "obligatorios" (medicación diluida por ejemplo); no se descuentan los aportes de reposición ni reanimación. 
+
+En pacientes ancianos, frágiles, con ERC o IRA, ICC, malnutridos, o con riesgo de sindrome de realimentación, debe considerarse reducir el volumen aportado (20ml/kg/día) para evitar efectos adversos, ya que estos pacientes son más intolerantes al aporte de volumen.
+
+> Es de notar que la Solución Fisiológica no es un buen fluido de reposición (exceptuando tal vez las pérdidas por vómitos o SNG a descarga), ni de mantenimiento, ya que difiere sustancialmente de los líquidos corporales.
 
 # Lecturas
 - Ann Intensive Care. 2018;8(1):66. doi:[10.1186/s13613-018-0402-x](https://doi.org/10.1186/s13613-018-0402-x)
 - NICE Clinical guideline 174 (2017) [https://www.nice.org.uk/guidance/cg174](https://www.nice.org.uk/guidance/cg174)
+
+Versión: 13/04/2020
