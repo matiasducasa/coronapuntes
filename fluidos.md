@@ -62,6 +62,7 @@ Es importante entender entonces la base fisiopatológica: la *ley de Frank-Starl
 Graficándolo en una curva de Starling de función ventricular:
 
 ![Figura 1: curva de función ventricular (de Starling)](images/curva-starling.png)
+
 *Figura 1: curva de función ventricular (de Starling)*
 
 La mayor parte de los pacientes con descompensación hemodinámica presentan un déficit inicial de fluidos, con lo cual por lo general, serán respondedores a fluidos. Con una adecuada reanimación inicial, este déficit se repone, y muchos de estos pacientes pasarán a ser no respondedores.
@@ -107,6 +108,7 @@ La presión venosa central es una medición indirecta de la precarga. Su valor n
 La reposición implica considerar déficits previos y pérdidas continuadas. Para esto debe tenerse en consideración las características de los fluidos que se pierden por un lado, y el volumen de los mismos, y debería reponerse tratando de igualarlos, para evitar alteraciones hidroelectrolíticas.
 
 ![Figura 2: composición de los cristaloides habituales](images/composicion-fluidos.png)
+
 *Figura 2: composición de los cristaloides habituales*
 
 > La composición de distintos fluidos corporales puede verse en [este link](https://www.nice.org.uk/guidance/cg174/resources/diagram-of-ongoing-losses-191664109).
