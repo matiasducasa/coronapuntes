@@ -1,6 +1,6 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "https://coronapuntes.now.sh",
     "name": "CORONAPUNTES",
     "owner": "M.D.",
     "description": "Recopilación de publicaciones comentadas sobre COVID-19"
