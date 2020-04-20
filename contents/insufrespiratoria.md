@@ -1,2 +1,0 @@
-# Insuficiencia Respiratoria Aguda
-

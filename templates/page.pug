@@ -8,11 +8,7 @@ block prepend title
   | #{ page.title + ' - '}
 
 block header
-  include author
   h1= page.title
-  p.author
-    | #{ 'Escrito por ' }
-    +author(page.metadata.author)
   p.volver
     a(href=contents.index.url) &laquo; Inicio
 

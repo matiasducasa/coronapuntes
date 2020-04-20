@@ -2,4 +2,4 @@
 view: none
 ---
 
-[Revisión COVID-19](/revisioncovid.html) | [Manejo de fluidos](/fluidos.html)
+[Revisión COVID-19](/articles/revision-covid) | [Índice temático](/indice.html)

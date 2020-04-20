@@ -1,10 +1,11 @@
 ---
 title: Revisión COVID-19
 author: matias-ducasa
+date: 2020-04-11
 template: article.pug
 ---
 
-# REVISIÓN COVID-19
+REVISIÓN COVID-19 <span class="more"></span>
 
 # Definición de caso, sintomatología y diagnóstico
 
@@ -114,9 +115,9 @@ Es importante en el seguimiento de los marcadores conocer la fecha de inicio de 
 
 # Tratamiento de sostén
 
-![](images/msal-soporte-1.png)
+![](msal-soporte-1.png)
 
-![](images/msal-soporte-2.png)
+![](msal-soporte-2.png)
 
 (Recomendaciones del [Ministerio de Salud](https://www.argentina.gob.ar/salud/coronavirus-COVID-19/tratamiento-sosten) para el tratamiento de sostén - 9/4/20)
 
@@ -126,7 +127,7 @@ Es importante en el seguimiento de los marcadores conocer la fecha de inicio de 
 
 Existen recomendaciones condicionales del Ministerio de Salud, que agregan al tratamiento sintomático/de sostén y antimicrobiano empírico, los escenarios donde utilizar lopinavir/ritonavir y/o hidroxicloroquina:
 
-![](images/msal-tto.png)
+![](msal-tto.png)
 
 [https://www.argentina.gob.ar/salud/coronavirus-COVID-19/abordaje-terapeutico](https://www.argentina.gob.ar/salud/coronavirus-COVID-19/abordaje-terapeutico) (9/4/20)
 
@@ -273,5 +274,3 @@ Por otro lado, el láctico debe interpretarse siempre en el contexto, ya que [no
 El uso de vasopresores en forma temprana se ha asociado con menor balance positivo acumulado, no presenta mayores riesgos de efectos adversos, y podría asociarse con menor tiempo de hipotensión y menor mortalidad en un [estudio prospectivo](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2756-3); y se asoció con menor riesgo de EAP y arritmias, y menores tiempos hasta la compensación hemodinámica en un [ensayo randomizado](https://www.atsjournals.org/doi/10.1164/rccm.201806-1034OC).
 
 En el caso del objetivo de TAM, viene acumulándose evidencia a favor de objetivos más bajos, posiblemente disminuyendo la mortalidad, evitando efectos adversos de la exposición a vasopresores (principalmente arritmias) (para leer, un [meta-análisis](https://pubmed.ncbi.nlm.nih.gov/29260272/) y el *[65 trial](https://doi.org/10.1001/jama.2020.0930)*).
-
-Versión: 11/04/2020

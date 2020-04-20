@@ -1,12 +1,11 @@
 ---
-title: Manejo de fluidos
+title: Manejo de fluidos intravenosos
 author: matias-ducasa
+date: 2020-04-13
 template: article.pug
 ---
 
-# Manejo de la Fluidoterapia Intravenosa
-
-Objetivos:
+**Objetivos:**
 
 - Entender a los fluidos IV como drogas
     - Indicaciones
@@ -14,6 +13,10 @@ Objetivos:
     - Dosificación y elección del tipo de fluidos
     - Efectos adversos
 - Adquirir herramientas para su uso racional
+
+<span class="more"></span>
+
+# Generalidades
 
 ## Disposición de los fluidos en el organismo
 
@@ -68,7 +71,7 @@ Es importante entender entonces la base fisiopatológica: la *ley de Frank-Starl
 
 Graficándolo en una curva de Starling de función ventricular:
 
-![Figura 1: curva de función ventricular (de Starling)](images/curva-starling.png)
+![Figura 1: curva de función ventricular (de Starling)](curva-starling.png)
 
 *Figura 1: curva de función ventricular (de Starling)*
 
@@ -104,7 +107,7 @@ Objetivos:
 - Normalización de la FC y FR
 - Mejoría del sensorio
 
-Tener en cuenta que no siempre se pueden alcanzar todos los objetivos: el clearence del láctico puede entorpecerse por falla hepática o renal, la diuresis puede estar afectada por una IRA de otra etiología, el sensorio puede alterarse por otras causas.
+Tener en cuenta que no siempre se pueden alcanzar todos los objetivos: el descenso del láctico puede entorpecerse por falla hepática o renal, la diuresis puede estar afectada por una IRA de otra etiología, el sensorio puede alterarse por otras causas.
 
 ### La PVC
 
@@ -118,7 +121,7 @@ La presión venosa central es una medición indirecta de la precarga. Su valor n
 
 La reposición implica considerar déficits previos y pérdidas continuadas. Para esto debe tenerse en consideración las características de los fluidos que se pierden por un lado, y el volumen de los mismos, y debería reponerse tratando de igualarlos, para evitar alteraciones hidroelectrolíticas.
 
-![Figura 2: composición de los cristaloides habituales](images/composicion-fluidos.png)
+![Figura 2: composición de los cristaloides habituales](composicion-fluidos.png)
 
 *Figura 2: composición de los cristaloides habituales*
 
@@ -142,5 +145,3 @@ En pacientes ancianos, frágiles, con ERC o IRA, ICC, malnutridos, o con riesgo 
 
 - Ann Intensive Care. 2018;8(1):66. doi:[10.1186/s13613-018-0402-x](https://doi.org/10.1186/s13613-018-0402-x)
 - NICE Clinical guideline 174 (2017) [https://www.nice.org.uk/guidance/cg174](https://www.nice.org.uk/guidance/cg174)
-
-Versión: 13/04/2020
