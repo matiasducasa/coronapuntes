@@ -9,4 +9,11 @@ Sistemática para el manejo del paciente "desaturando", interpretación de gases
 
 <span class="more"></span>
 
+## ¿Cómo definimos Insuficiencia Respiratoria?
+
+La definición es gasométrica:
+
+- PaO2 <60 mmHg (hipoxémica o tipo I): se corresponde con la fase "empinada" de la curva de disociación de la hemoglobina, momento en el que el contenido de oxígeno arterial se ve más comprometido.
+- PaCO2 >50 mmHg (hipercápnica o tipo II): este es un límite un poco más arbitrario, ya que dependiendo del medio interno del paciente, la pCO2 puede variar, compensando los trastornos metabólicos del EAB.
+
 
