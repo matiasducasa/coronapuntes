@@ -25,8 +25,15 @@ En todo paciente que satura <92% deberíamos sospechar la presencia de insuficie
 ## Índices de oxigenación
 
 - PaFi: PaO2 / FiO2. Normal >400. Es el índice más usado por su simpleza. Permite definir hipoxemia e IR (<300) independientemente de la FiO2 usada. Como contra: no tiene en cuenta la ventilación.
-- Gradiente alveoloarterial de O2: (Patm-47)*FiO2 - PaCO2/0.8 - PaO2. Normal <12 (varía según edad). Si bien pierde exactitud con FiO2 crecientes, al aire ambiente permite identificar alteraciones del intercambio gaseoso que están siendo compensadas con hiperventilación (PaO2 normal con gradiente aumentado) o bien diferenciar hipoxemia por hipoventilación (PaO2 baja con gradiente normal).
+- Gradiente alveoloarterial de O2: (Patm-47)*FiO2 - PaCO2/0.8 - PaO2. Normal <12 (varía según edad). Si bien pierde exactitud con FiO2 crecientes, al aire ambiente permite identificar alteraciones del intercambio gaseoso que están siendo compensadas con hiperventilación (PaO2 normal con gradiente aumentado) o bien diferenciar hipoxemia por hipoventilación (PaO2 baja con gradiente normal) de otras causas.
 
 Estos índices son útiles tanto en el diagnóstico como en el seguimiento, ya que permiten, independientemente de la FiO2, evaluar la respuesta al tratamiento.
 
+## Causas de hipoxemia
 
+Recordar que hipoxemia (bajo contenido de O2 en sangre) no es lo mismo que hipoxia (a nivel tisular).
+
+- Hipoventilación 
+- Alteración de la relación V/Q
+- Shunt
+- Alteración de la difusión 
