@@ -22,6 +22,18 @@ La primera conclusión es que necesitamos tener una muestra de gases arteriales 
 
 En todo paciente que satura <92% deberíamos sospechar la presencia de insuficiencia respiratoria y obtener una muestra de gases arteriales. Por otro lado, en pacientes con reagudización de asma o EPOC se debe sospechar de IR hipercápnica. En los pacientes con mecánica ventilatoria anormal, aún si no desaturan, puede ser conveniente tomar muestra de gases arteriales, ya que pueden haber alteraciones que se mantengan compensadas a base de hiperventilación, pero que pueden derivar en fatiga de la musculatura respiratoria y eventualmente IR.
 
+> **LIMITACIONES EN EL USO DEL SATURÓMETRO**
+> La oximetría utiliza la luz en lechos capilares periféricos para medir la saturación de oxígeno de la Hb (SpO2). Aporta una estimación no invasiva de la saturación arterial (SaO2), que tiene relación con el contenido arterial de oxígeno. Presenta limitaciones:
+>
+> - Baja perfusión: dificulta la captación de señal
+> - Metahemoglobina o carboxihemoglobina dan medidas falsamente elevadas de SpO2
+> - La luz ambiente con luz fluorescente puede derivar en lecturas falsamente disminuidas
+> - Artefactos de movimiento
+> - Esmalte para uñas: azul, verde o negro son los que más interfieren con la medición.
+> - La oximetría pierde exactitud con saturaciones menores a 90%
+> 
+> En estos casos, o si existen dudas sobre la exactitud de la medición, se debería tomar una muestra de gases arteriales.
+
 ## Índices de oxigenación
 
 - PaFi: PaO2 / FiO2. Normal >400. Es el índice más usado por su simpleza. Permite definir hipoxemia e IR (<300) independientemente de la FiO2 usada. Como contra: no tiene en cuenta la ventilación.
@@ -33,7 +45,7 @@ Estos índices son útiles tanto en el diagnóstico como en el seguimiento, ya q
 
 Recordar que hipoxemia (bajo contenido de O2 en sangre) no es lo mismo que hipoxia (a nivel tisular).
 
-- Hipoventilación 
-- Alteración de la relación V/Q
-- Shunt
-- Alteración de la difusión 
+- Hipoventilación: hipoxemia con hipercapnia y gradiente alveoloarterial normal. Pensar en causas neuromusculares: depresión del SNC, debilidad de la musculatura respiratoria, etc. 
+- Alteración de la relación V/Q: la causa más frecuente, se genera por un disbalance en la distribución de ventilación y perfusión en los pulmones, con áreas más perfundidas que ventiladas y visceversa. Esto deriva en mayor espacio muerto fisiológico y mayor shunt. Las patologías obstructivas como EPOC, si bien cursan con hipercapnia, generan alteración V/Q.
+- Shunt: es una forma extrema de alteración V/Q, que no logra corregirse con la administración de O2 suplementario, persistiendo la desaturación. Ocurre por la "desviación" de la sangre por áreas no ventiladas, con lo que esta sangre no se oxigena en absoluto.
+- Alteración de la difusión: generalmente no es causa de hipoxemia en pacientes en reposo, pero si la genera en el esfuerzo (test de caminata con desaturación). 
