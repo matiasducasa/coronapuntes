@@ -49,3 +49,21 @@ Recordar que hipoxemia (bajo contenido de O2 en sangre) no es lo mismo que hipox
 - Alteración de la relación V/Q: la causa más frecuente, se genera por un disbalance en la distribución de ventilación y perfusión en los pulmones, con áreas más perfundidas que ventiladas y visceversa. Esto deriva en mayor espacio muerto fisiológico y mayor shunt. Las patologías obstructivas como EPOC, si bien cursan con hipercapnia, generan alteración V/Q.
 - Shunt: es una forma extrema de alteración V/Q, que no logra corregirse con la administración de O2 suplementario, persistiendo la desaturación. Ocurre por la "desviación" de la sangre por áreas no ventiladas, con lo que esta sangre no se oxigena en absoluto.
 - Alteración de la difusión: generalmente no es causa de hipoxemia en pacientes en reposo, pero si la genera en el esfuerzo (test de caminata con desaturación). 
+
+## Manejo inicial
+
+Frente a un paciente que desatura, es necesario proceder ordenadamente
+
+**A) Vía aérea**: asegurar la permeabilidad de la misma. Implica evaluar el estado de conciencia, manejo de secreciones. Los pacientes que no pueden proteger la vía aérea requieren intubación endotraqueal.
+
+- Colocar oxigenoterapia suplementaria para obtener una SpO2 >90-92%. Tomar muestra de gases arteriales.
+
+**B) Ventilación**: evaluar la mecánica ventilatoria del paciente, los pacientes que presentan agotamiento de la musculatura inspiratoria (o en los que ésta es inminente) requieren asistencia respiratoria mecánica (ARM). 
+
+**C) Circulación**: el objetivo final es evitar la hipoxia tisular, con lo cual sumado a la corrección de la hipoxemia, se debe adecuar la hemodinamia y optimizar el hematocrito de ser necesario si hay criterios transfusionales. 
+
+- Tomar muestra para hemograma y EAB con láctico. 
+
+A la par, se debe buscar la causa que lleva a la insuficiencia respiratoria, ya que el tratamiento de la enfermedad de base es central para lograr la resolución de la misma. 
+
+### Oxigenoterapia
