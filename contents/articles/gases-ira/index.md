@@ -1,7 +1,7 @@
 ---
 title: Insuficiencia Respiratoria Aguda
 author: matias-ducasa
-date: 2020-04-
+date: 2020-04-25
 template: article.pug
 ---
 
@@ -67,3 +67,21 @@ Frente a un paciente que desatura, es necesario proceder ordenadamente
 A la par, se debe buscar la causa que lleva a la insuficiencia respiratoria, ya que el tratamiento de la enfermedad de base es central para lograr la resolución de la misma. 
 
 ### Oxigenoterapia
+
+- **Cánula nasal**. Aporta un flujo de oxígeno constante, con la naso y orofaringe actuando como reservorio. La FiO2 varía según la relación entre el volumen ventilado por el paciente y el flujo de oxígeno; en una persona ventilando normalmente, cada 1 L/min de aumento la FiO2 aumenta 4%. Con flujos de hasta 4 L/min es bien tolerado sin humidificación, con más de 4 L/m se requiere humidificar ya que seca la vía aérea y disiminuye la tolerancia; por encima de 6 L/min se reduce la tolerancia sin generar grandes incrementos de FiO2.
+- **Máscara con reservorio**. En este caso se cuenta con una bolsa que actúa como reservorio de oxígeno. Se debe asegurar que la bolsa se mantenga siempre "inflada", y requiere flujos de 6 L/min o más. Algunos dispositivos cuentan con una válvula unidireccional, que evitan el retorno del aire exhalado hacia la bolsa reservorio, logrando mayores FiO2.
+- **Máscara venturi**. Es un dispositivo de alto flujo, permitiendo aportar una FiO2 relativamente constante, independientemente del patrón respiratorio del paciente. Se pueden lograr FiO2 de hasta 0,5. 
+
+> **OXIGENOTERAPIA EN COVID-19**
+>
+> Se ha sugerido evitar flujos de O2 mayores a 6 L/min para evitar la aerosolización del virus
+
+### Objetivos de saturación
+
+Las guías de oxigenoterapia sugieren mantener una SpO2 entre 92 y 96% en la mayor parte de los pacientes con patología aguda.
+
+En aquellos pacientes que tengan EPOC o alguna otra patología que genere riesgo de hipercapnia, los objetivos son menores: SpO2 88-92% (esto es por el agravamiento del disbalance V/Q al llevar oxígeno a áreas poco ventiladas del pulmón, generando alteraciones en el flujo, y empeorando en forma paradójica el intercambio gaseoso, además de disminuir el estímulo para la ventilación). En estos pacientes es conveniente el seguimiento con gases arteriales, para detectar tempranamente la retención de CO2.
+
+## Lecturas
+
+Oxygen therapy for acutely ill medical patients: a clinical practice guideline. BMJ 2018;363:k4169 [10.1136/bmj.k4169](https://doi.org/10.1136/bmj.k4169)

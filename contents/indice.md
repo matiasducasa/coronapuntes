@@ -10,7 +10,7 @@ template: page.pug
   - RCP en pacientes con COVID-19
 - GENERALIDADES DE CLÍNICA
   - [Análisis del Estado Ácido-Base](/articles/eab)
-  - Insuficiencia respiratoria
+  - [Insuficiencia respiratoria](/articles/gases-ira)
   - [Manejo de fluidoterapia intravenosa](/articles/fluidos)
   - Shock indiferenciado
   - Sepsis y shock séptico
